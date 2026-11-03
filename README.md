@@ -31,7 +31,7 @@ These extensions enable simulation of Bluetooth 5 communication behavior at both
 
 
 
-In addition to the above-mentioned features, a dedicated decider for BLE in PHY layer, flow control in MAC layer and new auxiliary advertising packets are developed. It is worth mentioning that this simulator is developed and tested with **OMNeT++ version 4.4.1 and MiXiM version 2.3**. The higher versions of OMNeT++ may or may not work with the tool. 
+ It is worth mentioning that this simulator is developed and tested with **OMNeT++ version 4.4.1 and MiXiM version 2.3**. The higher versions of OMNeT++ may or may not work with the tool. 
 
 In order to use this tool, the user must accept the **GNU v3 license** by confirming that she/he has read, understood and agree with the conditions of this licence. 
 **In order to use this tool, the user need the password for openning the zip file. The password is "I hereby accept the license terms" without all spaces.** After unzipping the file, the is a tarball that can be directly imported by OMNet++.
