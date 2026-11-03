@@ -1,7 +1,7 @@
 # BLE5
 ## System-level simulator of Bluetooth Low Energy version 5
 
-This simulator is written in C++ and developed to work in [MiXiM framework](http://mixim.sourceforge.net/) of the [OMNeT++ engine](https://omnetpp.org/). This simulation, which simulates the PHY and MAC layer of BLE 5. This simulator has been used for publishing the following article:
+This simulator is written in C++ and developed to work in [MiXiM framework](http://mixim.sourceforge.net/) of the [OMNeT++ engine](https://omnetpp.org/), and it simulates the PHY and MAC layer of BLE 5. This simulator has been used for publishing the following article:
 *  **B. Badihi**, F. Ghavimi and R. Jäntti, "On the System-level Performance Evaluation of Bluetooth 5 in IoT: Open Office Case Study," 2019 16th International Symposium on Wireless Communication Systems (ISWCS), Oulu, Finland, 2019, pp. 485-489, doi: 10.1109/ISWCS.2019.8877223.
 
 The following features of BLE5 have been developed:
