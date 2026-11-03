@@ -12,7 +12,7 @@ B. Badihi, F. Ghavimi, and R. Jäntti,
 DOI: 10.1109/ISWCS.2019.8877223
 
 
-PHY Layer
+****PHY Layer
 The following Bluetooth 5 PHY modes are supported:
 
 - LE 1M PHY
@@ -20,7 +20,7 @@ The following Bluetooth 5 PHY modes are supported:
 - LE Coded PHY with S=2
 - LE Coded PHY with S=8
 A dedicated BLE PHY decider has also been implemented to support reception and PHY-level processing of Bluetooth Low Energy packets.
-MAC Layer
+#MAC Layer
 The MAC layer includes:
 
 - Channel Selection Algorithm #2
